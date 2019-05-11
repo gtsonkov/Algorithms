@@ -5,7 +5,7 @@ namespace Permutations
     using System.Linq;
     using System.Text;
 
-    class Program
+    class PermutationsV1
     {
         static int[] elements;
         static bool[] used;

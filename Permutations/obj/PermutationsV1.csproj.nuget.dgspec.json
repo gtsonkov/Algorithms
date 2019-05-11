@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj": {}
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj": {
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj",
-        "projectName": "Permutations",
-        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj",
+        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj",
+        "projectName": "PermutationsV1",
+        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj",
         "packagesPath": "C:\\Users\\Tsonkov\\.nuget\\packages\\",
         "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\obj\\",
         "projectStyle": "PackageReference",

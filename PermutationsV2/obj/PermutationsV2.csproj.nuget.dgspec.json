@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj": {}
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationsV2\\PermutationsV2.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj": {
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationsV2\\PermutationsV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj",
-        "projectName": "Permutations",
-        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\Permutations.csproj",
+        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationsV2\\PermutationsV2.csproj",
+        "projectName": "PermutationsV2",
+        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationsV2\\PermutationsV2.csproj",
         "packagesPath": "C:\\Users\\Tsonkov\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\obj\\",
+        "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationsV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

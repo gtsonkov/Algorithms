@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj",
-      "projectName": "PermutationsV1",
-      "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\PermutationsV1.csproj",
+      "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationV2\\PermutationV2.csproj",
+      "projectName": "PermutationV2",
+      "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationV2\\PermutationV2.csproj",
       "packagesPath": "C:\\Users\\Tsonkov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Permutations\\obj\\",
+      "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\PermutationV2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
