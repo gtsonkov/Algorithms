@@ -1,2 +1,2 @@
 # Algorithms
-Basic Algorithms: Sorting, searching, combinatorial, greedy ...
+Some basic algorithms like Sorting, searching, combinatorial, greedy and more, using C# .Net Core
