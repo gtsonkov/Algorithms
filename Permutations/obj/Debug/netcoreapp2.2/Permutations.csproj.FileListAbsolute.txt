@@ -1,0 +1,11 @@
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\bin\Debug\netcoreapp2.2\Permutations.deps.json
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\bin\Debug\netcoreapp2.2\Permutations.runtimeconfig.json
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\bin\Debug\netcoreapp2.2\Permutations.runtimeconfig.dev.json
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\bin\Debug\netcoreapp2.2\Permutations.dll
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\bin\Debug\netcoreapp2.2\Permutations.pdb
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.csprojAssemblyReference.cache
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.AssemblyInfoInputs.cache
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.AssemblyInfo.cs
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.dll
+C:\Users\Tsonkov\source\repos\Algorithms\Permutations\obj\Debug\netcoreapp2.2\Permutations.pdb
