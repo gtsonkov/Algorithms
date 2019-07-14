@@ -1,0 +1,11 @@
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\bin\Debug\netcoreapp2.2\CopyDirectoryRekursiv.deps.json
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\bin\Debug\netcoreapp2.2\CopyDirectoryRekursiv.runtimeconfig.json
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\bin\Debug\netcoreapp2.2\CopyDirectoryRekursiv.runtimeconfig.dev.json
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\bin\Debug\netcoreapp2.2\CopyDirectoryRekursiv.dll
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\bin\Debug\netcoreapp2.2\CopyDirectoryRekursiv.pdb
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.csprojAssemblyReference.cache
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.csproj.CoreCompileInputs.cache
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.AssemblyInfoInputs.cache
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.AssemblyInfo.cs
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.dll
+D:\SoftUni\OneDrive\C#\Algorithms\CopyDirectoryRekursiv\obj\Debug\netcoreapp2.2\CopyDirectoryRekursiv.pdb

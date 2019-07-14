@@ -8,3 +8,4 @@ D:\SoftUni\OneDrive\C#\Algorithms\GeneratingCombinations\obj\Debug\netcoreapp2.2
 D:\SoftUni\OneDrive\C#\Algorithms\GeneratingCombinations\obj\Debug\netcoreapp2.2\GeneratingCombinations.AssemblyInfo.cs
 D:\SoftUni\OneDrive\C#\Algorithms\GeneratingCombinations\obj\Debug\netcoreapp2.2\GeneratingCombinations.dll
 D:\SoftUni\OneDrive\C#\Algorithms\GeneratingCombinations\obj\Debug\netcoreapp2.2\GeneratingCombinations.pdb
+D:\SoftUni\OneDrive\C#\Algorithms\GeneratingCombinations\obj\Debug\netcoreapp2.2\GeneratingCombinations.csprojAssemblyReference.cache
