@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\8Qeens\\8Qeens.csproj",
-      "projectName": "8Qeens",
-      "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\8Qeens\\8Qeens.csproj",
+      "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\CopyDirectoryRekursiv\\CopyDirectoryRekursiv.csproj",
+      "projectName": "CopyDirectoryRekursiv",
+      "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\CopyDirectoryRekursiv\\CopyDirectoryRekursiv.csproj",
       "packagesPath": "C:\\Users\\Tsonkov\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\8Qeens\\obj\\",
+      "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\CopyDirectoryRekursiv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
