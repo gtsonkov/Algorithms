@@ -1,0 +1,11 @@
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\bin\Debug\netcoreapp2.2\PermutationsV1.deps.json
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\bin\Debug\netcoreapp2.2\PermutationsV1.runtimeconfig.json
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\bin\Debug\netcoreapp2.2\PermutationsV1.runtimeconfig.dev.json
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\bin\Debug\netcoreapp2.2\PermutationsV1.dll
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\bin\Debug\netcoreapp2.2\PermutationsV1.pdb
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.csprojAssemblyReference.cache
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.csproj.CoreCompileInputs.cache
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.AssemblyInfoInputs.cache
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.AssemblyInfo.cs
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.dll
+D:\SoftUni\OneDrive\C#\Algorithms\Permutations\obj\Debug\netcoreapp2.2\PermutationsV1.pdb

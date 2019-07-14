@@ -4,7 +4,7 @@ namespace CopyDirectoryRekursiv
     using System;
     using System.IO;
 
-    class Copy_Directory
+    class Copy_Directory_Recursiv
     {
         static void Main(string[] args)
         {

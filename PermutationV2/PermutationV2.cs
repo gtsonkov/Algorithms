@@ -35,7 +35,5 @@ namespace PermutationV2
             elements = Console.ReadLine().Split().Select(int.Parse).ToArray();
             Permute(0);
         }
-
-        
     }
 }

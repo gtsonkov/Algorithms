@@ -40,7 +40,6 @@ namespace Permutations
                     PermutationsCount++;
                     PermutationsToPrint.Append(string.Join(" ", permutations));
                 }
-                
                 //Console.WriteLine(PermutationsCount +" : "+ string.Join(" ",permutations));
             }
             else
