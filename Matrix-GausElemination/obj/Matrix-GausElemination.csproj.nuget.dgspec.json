@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\GeneratingCombinations\\GeneratingCombinations.csproj": {}
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Matrix-GausElemination\\Matrix-GausElemination.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\GeneratingCombinations\\GeneratingCombinations.csproj": {
+    "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Matrix-GausElemination\\Matrix-GausElemination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\GeneratingCombinations\\GeneratingCombinations.csproj",
-        "projectName": "GeneratingCombinations",
-        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\GeneratingCombinations\\GeneratingCombinations.csproj",
+        "projectUniqueName": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Matrix-GausElemination\\Matrix-GausElemination.csproj",
+        "projectName": "Matrix-GausElemination",
+        "projectPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Matrix-GausElemination\\Matrix-GausElemination.csproj",
         "packagesPath": "C:\\Users\\Tsonkov\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\GeneratingCombinations\\obj\\",
+        "outputPath": "D:\\SoftUni\\OneDrive\\C#\\Algorithms\\Matrix-GausElemination\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -41,15 +41,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -60,6 +52,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
