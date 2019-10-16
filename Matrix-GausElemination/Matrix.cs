@@ -239,4 +239,13 @@ namespace MatrixGausElemination
             return cells.Select(x => Convert.ToDouble(x.Replace(" ", string.Empty))).ToArray();
         }
     }
+    public static class ArrayHelpers
+    {
+        public static void Swap<TSource>(this TSource[] source, int indexA, int indexB)
+        {
+            var tmp = source[indexA];
+            source[indexA] = source[indexB];
+            source[indexB] = tmp;
+        }
+    }
 }
