@@ -2,11 +2,11 @@
 
 namespace Matrix_GausElemination
 {
-    class Program
+    class Run
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
