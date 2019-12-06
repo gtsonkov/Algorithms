@@ -26,11 +26,13 @@ namespace BubbleSort
 
                     SaveToText(sortedArr);
                 }
+
                 else
                 {
                     PrintToConsole(sortedArr);
                 }
             }
+
             else
             {
                 Console.Write("File path:");
@@ -42,10 +44,12 @@ namespace BubbleSort
                     int[] sortedArr = SortArray(unsortedArr);
                     Console.Write("Create .txt file? (y/n)");
                     string saveCommand = Console.ReadLine();
+
                     if (saveCommand == "y")
                     {
                         SaveToText(sortedArr);
                     }
+
                     else
                     {
                         PrintToConsole(sortedArr);
@@ -68,6 +72,7 @@ namespace BubbleSort
                 {
                     textBuilder.AppendLine(number.ToString());
                 }
+
                 writer.Write(textBuilder.ToString());
             }
         }
@@ -87,6 +92,7 @@ namespace BubbleSort
                     }
                 }
             }
+
             return unsortedArr;
         }
     }
