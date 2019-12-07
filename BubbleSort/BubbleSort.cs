@@ -12,18 +12,19 @@ namespace BubbleSort
             Console.WriteLine("Read data from: ");
             Console.WriteLine("0 - Console");
             Console.WriteLine("1 - File");
+
             string readFromCommand = Console.ReadLine();
 
             if (readFromCommand == "0")
             {
                 int[] unsortedArr = Console.ReadLine().Split().Select(int.Parse).ToArray();
                 int[] sortedArr = SortArray(unsortedArr);
+
                 Console.Write("Create .txt file? (y/n)");
                 string saveCommand = Console.ReadLine();
 
                 if (saveCommand == "y")
                 {
-
                     SaveToText(sortedArr);
                 }
 
@@ -37,6 +38,7 @@ namespace BubbleSort
             {
                 Console.Write("File path:");
                 string filePath = Console.ReadLine();
+
                 using (StreamReader reader = new StreamReader(filePath))
                 {
                     int[] unsortedArr = reader.ReadLine().Split(" ").Select(int.Parse).ToArray();
@@ -82,7 +84,7 @@ namespace BubbleSort
             int count = unsortedArr.Length;
             for (int i = 0; i < count; i++)
             {
-                for (int j = 0; j < count - 1; j++)
+                for (int j = 0; j < count - i -1; j++)
                 {
                     if (unsortedArr[j] > unsortedArr[j+1])
                     {

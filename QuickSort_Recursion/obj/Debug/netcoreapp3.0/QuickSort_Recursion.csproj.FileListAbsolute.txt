@@ -1,0 +1,11 @@
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.exe
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.deps.json
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.runtimeconfig.json
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.runtimeconfig.dev.json
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.dll
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\bin\Debug\netcoreapp3.0\QuickSort_Recursion.pdb
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\obj\Debug\netcoreapp3.0\QuickSort_Recursion.csprojAssemblyReference.cache
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\obj\Debug\netcoreapp3.0\QuickSort_Recursion.AssemblyInfoInputs.cache
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\obj\Debug\netcoreapp3.0\QuickSort_Recursion.AssemblyInfo.cs
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\obj\Debug\netcoreapp3.0\QuickSort_Recursion.dll
+D:\SoftUni\OneDrive\C#\Algorithms\QuickSort_Recursion\obj\Debug\netcoreapp3.0\QuickSort_Recursion.pdb

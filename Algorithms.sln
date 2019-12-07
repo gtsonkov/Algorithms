@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyDirectoryRekursiv", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix-GausElemination", "Matrix-GausElemination\Matrix-GausElemination.csproj", "{48FAF45C-6291-4102-90C7-75531CDD7C0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{7F586369-DC5A-49B2-BBFB-E9921599B78E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{7F586369-DC5A-49B2-BBFB-E9921599B78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort_Recursion", "QuickSort_Recursion\QuickSort_Recursion.csproj", "{F18AFA7A-FD3D-4ED7-9468-8C363FAC23B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7F586369-DC5A-49B2-BBFB-E9921599B78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F586369-DC5A-49B2-BBFB-E9921599B78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F586369-DC5A-49B2-BBFB-E9921599B78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18AFA7A-FD3D-4ED7-9468-8C363FAC23B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18AFA7A-FD3D-4ED7-9468-8C363FAC23B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18AFA7A-FD3D-4ED7-9468-8C363FAC23B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18AFA7A-FD3D-4ED7-9468-8C363FAC23B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
