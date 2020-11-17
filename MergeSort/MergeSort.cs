@@ -70,11 +70,13 @@ namespace MergeSort
                         right.Remove(rightElement);
                     }
                 }
+
                 else if (left.Count > 0)
                 {
                     result.Add(left.First());
                     left.Remove(left.First());
                 }
+
                 else if(right.Count > 0)
                 {
                     result.Add(right.First());
